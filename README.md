@@ -1,4 +1,4 @@
-GENERALIZED RAYLEIGH QUOTIENT ITERATION
+Generalized Rayleigh Quotient Iteration
 =======================================
 
 MATLAB code for the paper:
