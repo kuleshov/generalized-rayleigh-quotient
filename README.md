@@ -7,7 +7,7 @@ MATLAB code for the paper:
 	based on Rayleigh quotient iteration. Proceedings of the 30th International
 	Conference on Machine Learning, Atlanta, GA, 2013.
 
-Send feedback to [Volodymyr Kuleshov](http://web.stanford.edu/~kuleshov/)
+Send feedback to [Volodymyr Kuleshov](http://web.stanford.edu/~kuleshov/).
 
 Contents
 --------
